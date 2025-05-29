@@ -32,6 +32,15 @@
   </a>
 </p>
 
+<!-- GitHub Stats -->
+
+<p align="center">
+  <a href="https://github.com/AngelaYermey">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AngelaYermey&show_icons=true&include_all_commits=true&count_private=true&title_color=f9c5d1&icon_color=f9c5d1&text_color=f9c5d1&bg_color=0D1117" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelaYermey&layout=compact&langs_count=8&title_color=f9c5d1&text_color=f9c5d1&bg_color=0D1117" />
+  </a>
+</p>
+
 <!-- Connect With Me -->
 <div id="user-content-toc">
   <ul align="center">
@@ -56,16 +65,6 @@
     <img src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" />
   </a>
 </p>
-
-<!-- GitHub Stats -->
-
-<p align="center">
-  <a href="https://github.com/AngelaYermey">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AngelaYermey&show_icons=true&include_all_commits=true&count_private=true&title_color=f9c5d1&icon_color=f9c5d1&text_color=f9c5d1&bg_color=0D1117" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelaYermey&layout=compact&langs_count=8&title_color=f9c5d1&text_color=f9c5d1&bg_color=0D1117" />
-  </a>
-</p>
-
 
 <!--
 **AngelaYermey/AngelaYermey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
