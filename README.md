@@ -1,7 +1,7 @@
 ## Hi there 👋 Soy Angela 
 <!-- Header -->
 <p align="center">
-  <img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="300" alt="Working penguin gif">
+  <img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="300" alt="Working penguin gif" alt="Card header"/>
 </p>
 
 
