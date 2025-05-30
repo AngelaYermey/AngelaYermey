@@ -27,7 +27,7 @@
 </p>
 
 <p>
-  <img src="https://media.giphy.com/media/flower-daisy-flor-YGHKbVOEQEyW9hmJcU/giphy.gif" width="30px"/><strong><h2 style="display: inline-block">📚 Publicaciones y Certificaciones</h2>
+  <img src="https://media.giphy.com/media/YGHKbVOEQEyW9hmJcU/giphy.gif" width="30px"/><strong><h2 style="display: inline-block">📚 Publicaciones y Certificaciones</h2>
 
 🥈 **Finalista** – Jornada de Iniciación Científica UTP 2023  
   *Proyecto: “ReciVerde – Sitio web para la innovación de las 7Rs del reciclaje en Panamá”*
