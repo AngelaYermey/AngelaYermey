@@ -10,10 +10,10 @@ Soy desarrolladora de software con conocimientos en:
 - 🗄️ **Bases de datos SQL Server**  
 - 💻 **Programación en HTML, PHP, Java**  
 - 🧰 **Herramientas ofimáticas**: Word, Excel, PowerPoint  
-  <img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="250" alt="Working penguin gif"/>
+
     </td>
-    <td>
-    
+    <td width="20%">
+      <img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="250" alt="Working penguin gif"/>
     </td>
   </tr>
 </table>
