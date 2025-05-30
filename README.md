@@ -16,7 +16,7 @@
 
 <!-- Personal Info -->
 <p>
-  <img src="[https://giphy.com/gifs/flor-fiestas-sivarland-WRYQYfdkrGavGJU7Xh](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzE2dHRrYnYyNTN3eGFrNzRyNHVldnVkdmlkd2RrcDF0emE4MTFiYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WRYQYfdkrGavGJU7Xh/giphy.gif)" width="30px"> <strong><h2 style="display: inline-block">Sobre mí</h2>
+  <img src="https://giphy.com/gifs/flower-daisy-flor-YGHKbVOEQEyW9hmJcU" width="30px"> <strong><h2 style="display: inline-block">Sobre mí</h2>
 
   Soy desarrolladora de software con conocimientos en:
 
