@@ -1,22 +1,25 @@
 ## 👋 Hi there, soy Angela
 
+<div align="center">
 
-<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<table width="100%">
   <tr>
-    <td align="center">
-      <p>
-        <strong>👩‍💻 Soy desarrolladora de software con conocimientos en:</strong><br><br>
-
-        📱 <strong>Desarrollo de aplicaciones móviles y web</strong><br>
-        🗄️ <strong>Bases de datos SQL Server</strong><br>
-        💻 <strong>Programación en HTML, PHP, Java</strong><br>
-        🧰 <strong>Herramientas ofimáticas:</strong> Word, Excel, PowerPoint
-      </p>
-      <br>
+    <td style="text-align: left; vertical-align: top; font-size: 16px;">
+      <strong>Soy desarrolladora de software con conocimientos en:</strong>
+      <ul>
+        <li>📱 <strong>Desarrollo de aplicaciones móviles y web</strong></li>
+        <li>🗄️ <strong>Bases de datos SQL Server</strong></li>
+        <li>💻 <strong>Programación en HTML, PHP, Java</strong></li>
+        <li>🧰 <strong>Herramientas ofimáticas</strong>: Word, Excel, PowerPoint</li>
+      </ul>
+    </td>
+    <td style="text-align: center; vertical-align: middle;">
       <img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="250" alt="Working penguin gif"/>
     </td>
   </tr>
 </table>
+
+</div>
 
 
 
