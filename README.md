@@ -24,11 +24,17 @@
 - 📱 **Desarrollo de aplicaciones móviles y web**
 - 🗄️ **Bases de datos SQL Server**
 - 🧑‍💻 **Programación en HTML, PHP, Java**
-- 🧰 **Herramientas ofimáticas**: Word, Excel, PowerPoint
-- 🤝 **Trabajo en equipo y colaboración**
-- 🎨 **Creatividad y resolución de problemas**</strong>
+- 🧰 **Herramientas ofimáticas**: Word, Excel, PowerPoint </strong>
 </p>
+<p>
+  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
+  &nbsp; <strong><h2 style="display: inline-block">📚 Publicaciones y Certificaciones</h2>
 
+🥈 **Finalista** – Jornada de Iniciación Científica UTP 2023  
+  *Proyecto: “ReciVerde – Sitio web para la innovación de las 7Rs del reciclaje en Panamá”*
+
+🗣️ **Ponente** – XIV Congreso ATICA 2023
+</p>
 <!-- Technologies -->
 <div id="user-content-toc">
   <ul align="center">
