@@ -5,7 +5,7 @@
 <table width="100%">
   <tr>
     <td style="text-align: left; vertical-align: top; font-size: 16px;">
-      <strong>Soy desarrolladora de software con conocimientos en: <br></strong>
+     <p><strong>Soy desarrolladora de software con conocimientos en:</strong></p>
       <ul>
         <li>📱 <strong>Desarrollo de aplicaciones móviles y web</strong></li>
         <li>🗄️ <strong>Bases de datos SQL Server</strong></li>
