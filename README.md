@@ -15,18 +15,7 @@
     </td>
     <td style="text-align: center; vertical-align: middle;">
       <img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="250" alt="Working penguin gif"/>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-
-
-
-
-
-<!-- Stats and Followers -->
+      <!-- Stats and Followers -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AngelaYermey&color=blueviolet" alt="Profile views" />
   &nbsp;
@@ -34,8 +23,11 @@
     <img src="https://img.shields.io/github/followers/AngelaYermey?style=social" alt="Followers" />
   </a>
 </p>
+    </td>
+  </tr>
+</table>
 
----
+</div>
 
 ## 📚 Publicaciones y Certificaciones
 
