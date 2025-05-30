@@ -1,9 +1,9 @@
 ## Hi there 👋 Soy Angela 
+
 <!-- Header -->
 <p align="center">
-  <img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="300" alt="Working penguin gif" alt="Card header"/>
+  <img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="300" alt="Working penguin gif"/>
 </p>
-
 
 <!-- Stats and Followers -->
 <p align="center">
@@ -14,55 +14,50 @@
   </a>
 </p>
 
-<!-- Personal Info -->
+---
 
-  <img src="https://giphy.com/gifs/flower-daisy-flor-YGHKbVOEQEyW9hmJcU" width="30px"> <strong> <h2 style="display: inline-block">Sobre mí</h2>
-<p>
-  Soy desarrolladora de software con conocimientos en:
+## 🌼 Sobre mí
+
+Soy desarrolladora de software con conocimientos en:
 
 - 📱 **Desarrollo de aplicaciones móviles y web**
 - 🗄️ **Bases de datos SQL Server**
-- 🧑‍💻 **Programación en HTML, PHP, Java**
-- 🧰 **Herramientas ofimáticas**: Word, Excel, PowerPoint </strong>
-</p>
+- 💻 **Programación en HTML, PHP, Java**
+- 🧰 **Herramientas ofimáticas**: Word, Excel, PowerPoint
 
-  <img src="https://media.giphy.com/media/YGHKbVOEQEyW9hmJcU/giphy.gif" width="30px"/><strong><h2 style="display: inline-block"> <h2>📚 Publicaciones y Certificaciones</h2>
-<p>
-🥈 Participante de la Jornada de Iniciación Científica UTP 2023 con el proyecto: _“ReciVerde – Sitio web para la innovación de las 7Rs del reciclaje en Panamá”*_
- 🔗[Ver publicación oficial](https://utp.ac.pa/sites/default/files/ganadores-jic-cocle_0.pdf)
+---
 
-🗣️ Ponente – XIV Congreso ATICA 2023
+## 📚 Publicaciones y Certificaciones
 
-🥈 Participante en la Jornada de Iniciación Científica Nacional 2021 con el proyecto:
+- 🥈 Participante en la **Jornada de Iniciación Científica UTP 2023**  
+  _“ReciVerde – Sitio web para la innovación de las 7Rs del reciclaje en Panamá”_  
+  🔗 [Ver publicación oficial](https://utp.ac.pa/sites/default/files/ganadores-jic-cocle_0.pdf)
+
+- 🗣️ Ponente – **XIV Congreso ATICA 2023**
+
+- 🥈 Participante en la **Jornada de Iniciación Científica Nacional 2021**  
   _“Prototipo de software para incrementar el conocimiento de las 4R’s del reciclaje en niños de escuelas primarias de (3°–6°) en Coclé”_  
   🔗 [Ver publicación oficial](https://utp.ac.pa/utp-anuncia-los-ganadores-de-la-jic-utp-2021)
-</p>
 
-  <h2 style="display: inline-block">📝 Publicaciones</h2>
-<p>
-ReciVerde: sitio web para la innovación de las 7 Rs del reciclaje en Panamá
-En: Libro de Actas, ATICA 2023 y ATICAcces 2023 (p. 341)
-📄 Ver publicación (PDF) 
-</p>
-<!-- Technologies -->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know 👨🏻‍💻</h2></summary>
-  </ul>
-</div>
+### 📝 Publicaciones
+
+- **ReciVerde**: sitio web para la innovación de las 7 Rs del reciclaje en Panamá  
+  En: Libro de Actas, ATICA 2023 y ATICAcces 2023 (p. 341)  
+  📄 *Próximamente enlace al PDF*
+
+---
+
+## 💻 Tecnologías que manejo
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,c,css,html,discord,docker,jenkins,mysql,php,github,java,js,linux,md,mysql,ps,tailwind,bootstrap,ts,vscode,visualstudio,androidstudio,discord&windows=14" />
+    <img src="https://skillicons.dev/icons?i=git,aws,cpp,c,css,html,discord,docker,jenkins,mysql,php,github,java,js,linux,md,mysql,ps,tailwind,bootstrap,ts,vscode,visualstudio,androidstudio&perline=10" />
   </a>
 </p>
 
-<!-- GitHub Stats -->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Estadisticas👨🏻‍💻</h2></summary>
-  </ul>
-</div>
+---
+
+## 📊 Estadísticas de GitHub
 
 <p align="center">
   <a href="https://github.com/AngelaYermey">
@@ -71,12 +66,9 @@ En: Libro de Actas, ATICA 2023 y ATICAcces 2023 (p. 341)
   </a>
 </p>
 
-<!-- Connect With Me -->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me 🤝</h2></summary>
-  </ul>
-</div>
+---
+
+## 🤝 Conecta conmigo
 
 <p align="center">
   <a href="https://www.linkedin.com/in/1010nishant/" target="_blank">
@@ -92,6 +84,7 @@ En: Libro de Actas, ATICA 2023 y ATICAcces 2023 (p. 341)
     <img src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" />
   </a>
 </p>
+
 
 <!--
 **AngelaYermey/AngelaYermey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
