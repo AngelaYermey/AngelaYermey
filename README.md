@@ -4,7 +4,7 @@
 
 <table width="100%">
   <tr>
-    <td style="text-align: left; vertical-align: top; font-size: 18px;">
+    <td style="text-align: left; vertical-align: top; font-size: 20px;">
        <p><strong>Soy desarrolladora de software con conocimientos en:</strong>
       <ul>
         <li>📱 <strong>Desarrollo de aplicaciones móviles y web</strong></li>
