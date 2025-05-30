@@ -1,9 +1,11 @@
 ## 👋 Hi there, soy Angela
 
-<table>
+<div align="center">
+
+<table width="100%">
   <tr>
-    <td style="vertical-align: top; width: 70%;">
-      <p><strong>Soy desarrolladora de software con conocimientos en:</strong></p>
+    <td style="text-align: left; vertical-align: top; font-size: 16px;">
+      <strong>Soy desarrolladora de software con conocimientos en:</strong>
       <ul>
         <li>📱 <strong>Desarrollo de aplicaciones móviles y web</strong></li>
         <li>🗄️ <strong>Bases de datos SQL Server</strong></li>
@@ -11,11 +13,14 @@
         <li>🧰 <strong>Herramientas ofimáticas</strong>: Word, Excel, PowerPoint</li>
       </ul>
     </td>
-    <td style="text-align: center; width: 30%;">
-      <img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="150" alt="Working penguin gif"/>
+    <td style="text-align: center; vertical-align: middle;">
+      <img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="290" alt="Working penguin gif"/>
     </td>
   </tr>
 </table>
+
+</div>
+
 
 
 <!-- Stats and Followers -->
