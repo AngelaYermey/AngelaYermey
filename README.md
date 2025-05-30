@@ -17,9 +17,9 @@
 <!-- Personal Info -->
 <p>
   <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
-  &nbsp; <strong>## 👩🏻‍💻 Sobre mí
-
-Soy desarrolladora de software con conocimientos en:
+  &nbsp; <strong>👩🏻‍💻 Sobre mí
+</strong>
+  Soy desarrolladora de software con conocimientos en:
 
 - 📱 **Desarrollo de aplicaciones móviles y web**
 - 🗄️ **Bases de datos SQL Server**
@@ -27,7 +27,6 @@ Soy desarrolladora de software con conocimientos en:
 - 🧰 **Herramientas ofimáticas**: Word, Excel, PowerPoint
 - 🤝 **Trabajo en equipo y colaboración**
 - 🎨 **Creatividad y resolución de problemas**
-</strong>
 </p>
 
 <!-- Technologies -->
