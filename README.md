@@ -29,10 +29,12 @@
 <p>
   <img src="https://media.giphy.com/media/YGHKbVOEQEyW9hmJcU/giphy.gif" width="30px"/><strong><h2 style="display: inline-block">📚 Publicaciones y Certificaciones</h2>
 
-🥈 **Finalista** – Jornada de Iniciación Científica UTP 2023  
+🥈 Participante de la Jornada de Iniciación Científica UTP 2023  
   *Proyecto: “ReciVerde – Sitio web para la innovación de las 7Rs del reciclaje en Panamá”*
-
 🗣️ **Ponente** – XIV Congreso ATICA 2023
+🥈 ** Participante en la Jornada de Iniciación Científica Nacional 2021** con el proyecto:
+  _“Prototipo de software para incrementar el conocimiento de las 4R’s del reciclaje en niños de escuelas primarias de (3°–6°) en Coclé”_  
+  🔗 [Ver publicación oficial](https://utp.ac.pa/utp-anuncia-los-ganadores-de-la-jic-utp-2021)
 </p>
 <!-- Technologies -->
 <div id="user-content-toc">
