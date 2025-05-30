@@ -27,7 +27,7 @@
 </p>
 
 <p>
-  <img src="https://media.giphy.com/media/YGHKbVOEQEyW9hmJcU/giphy.gif" width="30px"/><strong><h2 style="display: inline-block">📚 Publicaciones y Certificaciones</h2>
+  <img src="https://media.giphy.com/media/YGHKbVOEQEyW9hmJcU/giphy.gif" width="30px"/><strong><h2 style="display: inline-block">  <h2 style="display: inline-block">📚 Publicaciones y Certificaciones</h2>
 
 🥈 Participante de la Jornada de Iniciación Científica UTP 2023 con el proyecto: _“ReciVerde – Sitio web para la innovación de las 7Rs del reciclaje en Panamá”*_
  🔗[Ver publicación oficial](https://utp.ac.pa/sites/default/files/ganadores-jic-cocle_0.pdf)
@@ -37,6 +37,14 @@
 🥈 Participante en la Jornada de Iniciación Científica Nacional 2021 con el proyecto:
   _“Prototipo de software para incrementar el conocimiento de las 4R’s del reciclaje en niños de escuelas primarias de (3°–6°) en Coclé”_  
   🔗 [Ver publicación oficial](https://utp.ac.pa/utp-anuncia-los-ganadores-de-la-jic-utp-2021)
+</p>
+<p>
+  <h2 style="display: inline-block">📝 Publicaciones</h2>
+
+E. González, A. Carrión y M. Fuentes
+ReciVerde: sitio web para la innovación de las 7 Rs del reciclaje en Panamá
+En: Libro de Actas, ATICA 2023 y ATICAcces 2023 (p. 341)
+📄 Ver publicación (PDF) 
 </p>
 <!-- Technologies -->
 <div id="user-content-toc">
