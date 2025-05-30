@@ -1,8 +1,7 @@
 ## 👋 Hi there, soy Angela
 
-<div align="center">
 
-<table width="100%">
+<table align="center" width="100% cellspacing="0" cellpadding="0" border="0"">
   <tr>
     <td style="text-align: left; vertical-align: top; font-size: 16px;">
      <h3><strong>Soy desarrolladora de software con conocimientos en:</strong></h3>
@@ -19,7 +18,6 @@
   </tr>
 </table>
 
-</div>
 
 
 
