@@ -35,10 +35,8 @@
 
 <p align="center">
   <a href="https://github.com/AngelaYermey">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AngelaYermey&show_icons=true&include_all_commits=true&count_private=true&theme=rose_pine&title_color=f9c5d1&icon_color=f9c5d1&text_color=f9c5d1&bg_color=0D1117"  alt="AngelaYermey GitHub stats"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AngelaYermey&show_icons=true&include_all_commits=true&count_private=true&theme=rose_pine&title_color=f9c5d1&icon_color=f9c5d1&text_color=f9c5d1&bg_color=0D1117" alt="AngelaYermey GitHub stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelaYermey&layout=compact&langs_count=8&theme=rose_pine&title_color=f9c5d1&text_color=f9c5d1&bg_color=0D1117 " alt="Top languages" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelaYermey&layout=compact&langs_count=10&theme=rose_pine&title_color=f9c5d1&text_color=f9c5d1&bg_color=0D1117 " alt="Top languages"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelaYermey&layout=compact&langs_count=10&theme=rose_pine&title_color=f9c5d1&text_color=f9c5d1&bg_color=0D1117" alt="Top Languages" />
     
 
 
