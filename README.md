@@ -1,6 +1,6 @@
 ## 👋 Hi there, soy Angela
 
-<table>
+<table width="100%">
   <tr>
     <td width="80%" >
       
