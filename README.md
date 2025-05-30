@@ -39,10 +39,10 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelaYermey&layout=compact&langs_count=8&title_color=f9c5d1&text_color=f9c5d1&bg_color=0D1117" />
 
 !-- Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=AngelaYermey&show_icons=true&include_all_commits=true&count_private=true&theme=rose_pine" alt="AngelaYermey GitHub stats" width="60%"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AngelaYermey&show_icons=true&include_all_commits=true&count_private=true&theme=rose_pine" alt="AngelaYermey GitHub stats" width="60%"/>
 
 <!-- Top Languages Card -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelaYermey&layout=compact&langs_count=10&theme=rose_pine" alt="Top languages" width="40%"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelaYermey&layout=compact&langs_count=10&theme=rose_pine" alt="Top languages" width="40%"/>
 
 
     
