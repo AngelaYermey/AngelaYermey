@@ -1,22 +1,22 @@
 ## 👋 Hi there, soy Angela
- <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4Q6Gf2aSP4eDXB8Miphtr37CMZZQ5oXLH2yaXMJ2w8e2ZtHTl7GptT4jmndRuHDT" crossorigin="anonymous">
-<table width="100%">
+
+<table>
   <tr>
-    <td width="80%" >
-      
-Soy desarrolladora de software con conocimientos en:
-
-- 📱 **Desarrollo de aplicaciones móviles y web**  
-- 🗄️ **Bases de datos SQL Server**  
-- 💻 **Programación en HTML, PHP, Java**  
-- 🧰 **Herramientas ofimáticas**: Word, Excel, PowerPoint  
-
+    <td style="vertical-align: top; width: 70%;">
+      <p><strong>Soy desarrolladora de software con conocimientos en:</strong></p>
+      <ul>
+        <li>📱 <strong>Desarrollo de aplicaciones móviles y web</strong></li>
+        <li>🗄️ <strong>Bases de datos SQL Server</strong></li>
+        <li>💻 <strong>Programación en HTML, PHP, Java</strong></li>
+        <li>🧰 <strong>Herramientas ofimáticas</strong>: Word, Excel, PowerPoint</li>
+      </ul>
     </td>
-    <td width="20%">
-      <img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="250" alt="Working penguin gif"/>
+    <td style="text-align: center; width: 30%;">
+      <img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="150" alt="Working penguin gif"/>
     </td>
   </tr>
 </table>
+
 
 <!-- Stats and Followers -->
 <p align="center">
