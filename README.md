@@ -16,8 +16,8 @@
 
 <!-- Personal Info -->
 <p>
-  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="50px">
-  &nbsp; <strong>👩Sobre mí
+  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
+  &nbsp; <strong><h2 style="display: inline-block">👩Sobre mí</h2>
 
   Soy desarrolladora de software con conocimientos en:
 
