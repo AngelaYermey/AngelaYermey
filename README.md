@@ -14,7 +14,7 @@
       </ul>
     </td>
     <td style="text-align: center; vertical-align: middle;">
-      <img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="290" alt="Working penguin gif"/>
+      <img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="260" alt="Working penguin gif"/>
     </td>
   </tr>
 </table>
