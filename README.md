@@ -1,9 +1,9 @@
 ## 👋 Hi there, soy Angela
 
 
-<table align="center" width="100% cellspacing="0" cellpadding="0" border="0"">
+<table width="100%; cellspacing="0"; cellpadding="0" border="0"">
   <tr>
-    <td style="text-align: left; vertical-align: top; font-size: 16px;">
+    <td align="center"">
      <h3><strong>Soy desarrolladora de software con conocimientos en:</strong></h3>
       <ul>
         <li>📱 <strong>Desarrollo de aplicaciones móviles y web</strong></li>
@@ -12,7 +12,7 @@
         <li>🧰 <strong>Herramientas ofimáticas</strong>: Word, Excel, PowerPoint</li>
       </ul>
     </td>
-    <td style="text-align: center;">
+    <td align="center">
       <img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="260" alt="Working penguin gif"/>
     </td>
   </tr>
