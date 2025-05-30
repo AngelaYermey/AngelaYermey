@@ -43,7 +43,7 @@ Soy desarrolladora de software con conocimientos en:
 
 - **ReciVerde**: sitio web para la innovación de las 7 Rs del reciclaje en Panamá  
   En: Libro de Actas, ATICA 2023 y ATICAcces 2023 (p. 341)  
-  📄 *Próximamente enlace al PDF*
+  📄 🔗 [Ver publicación PDF](https://atica.web.uah.es/documentos/LibroActasATICA2023.pdf)
 
 ---
 
