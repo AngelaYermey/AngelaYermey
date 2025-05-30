@@ -16,7 +16,7 @@
 
 <!-- Personal Info -->
 <p>
-  <img src="https://giphy.com/gifs/flower-daisy-flor-YGHKbVOEQEyW9hmJcU" width="30px"> <strong><h2 style="display: inline-block">Sobre mí</h2>
+  <img src="https://giphy.com/gifs/flower-daisy-flor-YGHKbVOEQEyW9hmJcU" width="30px"> <strong> <h2 style="display: inline-block">Sobre mí</h2>
 
   Soy desarrolladora de software con conocimientos en:
 
@@ -25,6 +25,7 @@
 - 🧑‍💻 **Programación en HTML, PHP, Java**
 - 🧰 **Herramientas ofimáticas**: Word, Excel, PowerPoint </strong>
 </p>
+
 <p>
   <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"/><strong><h2 style="display: inline-block">📚 Publicaciones y Certificaciones</h2>
 
