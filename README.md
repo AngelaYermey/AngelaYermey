@@ -13,7 +13,7 @@
         <li>🧰 <strong>Herramientas ofimáticas</strong>: Word, Excel, PowerPoint</li>
       </ul>
     </td>
-    <td style="text-align: center; vertical-align: middle;">
+    <td style="text-align: center;">
       <img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="260" alt="Working penguin gif"/>
     </td>
   </tr>
