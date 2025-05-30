@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <td width="100%" >
+    <td width="80%" >
       
 Soy desarrolladora de software con conocimientos en:
 
@@ -13,7 +13,7 @@ Soy desarrolladora de software con conocimientos en:
 
     </td>
     <td>
-      <img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="230" alt="Working penguin gif"/>
+      <img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="250" alt="Working penguin gif"/>
     </td>
   </tr>
 </table>
