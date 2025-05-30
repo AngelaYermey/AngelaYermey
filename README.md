@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <td width="80%" center>
+    <td width="95%" >
       
 Soy desarrolladora de software con conocimientos en:
 
@@ -86,7 +86,7 @@ Soy desarrolladora de software con conocimientos en:
   <a href="https://discordapp.com/users/tu_usuario" target="_blank">
     <img src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" />
   </a>
-  br
+    </br>
     <a href="mailto:carrionangela17@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-carrionangela17@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
