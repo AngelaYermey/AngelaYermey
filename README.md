@@ -26,8 +26,7 @@
 - 🧰 **Herramientas ofimáticas**: Word, Excel, PowerPoint </strong>
 </p>
 
-
-  <img src="https://media.giphy.com/media/YGHKbVOEQEyW9hmJcU/giphy.gif" width="30px"/><strong><h2 style="display: inline-block"> <h2 style="display: inline-block">📚 Publicaciones y Certificaciones</h2>
+  <img src="https://media.giphy.com/media/YGHKbVOEQEyW9hmJcU/giphy.gif" width="30px"/><strong><h2 style="display: inline-block"> <h2>📚 Publicaciones y Certificaciones</h2>
 <p>
 🥈 Participante de la Jornada de Iniciación Científica UTP 2023 con el proyecto: _“ReciVerde – Sitio web para la innovación de las 7Rs del reciclaje en Panamá”*_
  🔗[Ver publicación oficial](https://utp.ac.pa/sites/default/files/ganadores-jic-cocle_0.pdf)
