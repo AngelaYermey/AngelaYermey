@@ -16,7 +16,7 @@
     </td>
     <td style="text-align: center; vertical-align: middle;">
       <img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="250" alt="Working penguin gif"/>
-      <!-- Stats and Followers -->
+  
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AngelaYermey&color=blueviolet" alt="Profile views" />
   &nbsp;
@@ -29,7 +29,7 @@
 </table>
 
 </div>
----
+
 
 ## 📊 Estadísticas de GitHub
 
