@@ -9,7 +9,7 @@
       <ul>
         <li>📱 <strong>Desarrollo de aplicaciones móviles y web</strong></li>
         <li>🗄️ <strong>Bases de datos SQL Server</strong></li>
-        <li>💻 <strong>Programación en HTML, PHP, Java</strong></li>
+        <li>💻 <strong>Programación en HTML, PHP, Java, WordPress</strong></li>
         <li>🧰 <strong>Herramientas ofimáticas</strong>: Word, Excel, PowerPoint</li>    
         <li>💻 <strong>Instalación de Microsoft Office, Windows y aplicaciones de oficina.</strong></li>
           <li>💻 <strong>Mantenimiento de computadoras</strong>: Limpieza, Cambio de pasta, Actualización de drivers, etc.</strong></li>
